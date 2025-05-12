@@ -1,0 +1,8 @@
+.history/
+*.log
+*.zip
+*.bak
+*.env
+*.DS_Store
+node_modules/
+vendor/
